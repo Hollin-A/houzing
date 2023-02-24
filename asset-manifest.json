@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/houzing/static/css/main.2033af8f.css",
-    "main.js": "/houzing/static/js/main.9ca8caec.js",
+    "main.css": "/houzing/static/css/main.7661c563.css",
+    "main.js": "/houzing/static/js/main.d016ed97.js",
     "static/js/787.1b1ce9e0.chunk.js": "/houzing/static/js/787.1b1ce9e0.chunk.js",
     "static/media/houzing-01.jpg": "/houzing/static/media/houzing-01.fa45a0882806e5a6e4e0.jpg",
     "static/media/willowdale-manor-01.jpg": "/houzing/static/media/willowdale-manor-01.2ddfcc85462ceb957129.jpg",
@@ -16,12 +16,12 @@
     "static/media/logo.png": "/houzing/static/media/logo.c28f5eeaa7d9e161ff70.png",
     "static/media/villa.png": "/houzing/static/media/villa.04d0a074d9469993a137.png",
     "index.html": "/houzing/index.html",
-    "main.2033af8f.css.map": "/houzing/static/css/main.2033af8f.css.map",
-    "main.9ca8caec.js.map": "/houzing/static/js/main.9ca8caec.js.map",
+    "main.7661c563.css.map": "/houzing/static/css/main.7661c563.css.map",
+    "main.d016ed97.js.map": "/houzing/static/js/main.d016ed97.js.map",
     "787.1b1ce9e0.chunk.js.map": "/houzing/static/js/787.1b1ce9e0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2033af8f.css",
-    "static/js/main.9ca8caec.js"
+    "static/css/main.7661c563.css",
+    "static/js/main.d016ed97.js"
   ]
 }
