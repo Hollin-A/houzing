@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/houzing/static/css/main.2033af8f.css",
+    "main.js": "/houzing/static/js/main.9ca8caec.js",
+    "static/js/787.1b1ce9e0.chunk.js": "/houzing/static/js/787.1b1ce9e0.chunk.js",
+    "static/media/houzing-01.jpg": "/houzing/static/media/houzing-01.fa45a0882806e5a6e4e0.jpg",
+    "static/media/willowdale-manor-01.jpg": "/houzing/static/media/willowdale-manor-01.2ddfcc85462ceb957129.jpg",
+    "static/media/willowdale-manor-02.jpg": "/houzing/static/media/willowdale-manor-02.9936387b002bd988d5b9.jpg",
+    "static/media/willowdale-manor-03.jpg": "/houzing/static/media/willowdale-manor-03.f69f0d127d6b8674f9f3.jpg",
+    "static/media/call-center-agent.jpg": "/houzing/static/media/call-center-agent.16307199526dd4840776.jpg",
+    "static/media/office-space.jpg": "/houzing/static/media/office-space.611c962d6a03c8ff85a1.jpg",
+    "static/media/house.jpg": "/houzing/static/media/house.51ca979d2db4fcbcff57.jpg",
+    "static/media/apartment.jpg": "/houzing/static/media/apartment.2079f5358d019c029ec7.jpg",
+    "static/media/condo.jpg": "/houzing/static/media/condo.6467909d65fbd4bf9cff.jpg",
+    "static/media/villa.jpg": "/houzing/static/media/villa.364c7de7fcb3e7469584.jpg",
+    "static/media/logo.png": "/houzing/static/media/logo.c28f5eeaa7d9e161ff70.png",
+    "static/media/villa.png": "/houzing/static/media/villa.04d0a074d9469993a137.png",
+    "index.html": "/houzing/index.html",
+    "main.2033af8f.css.map": "/houzing/static/css/main.2033af8f.css.map",
+    "main.9ca8caec.js.map": "/houzing/static/js/main.9ca8caec.js.map",
+    "787.1b1ce9e0.chunk.js.map": "/houzing/static/js/787.1b1ce9e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2033af8f.css",
+    "static/js/main.9ca8caec.js"
+  ]
+}
