@@ -21,10 +21,10 @@ export const FeaturedPropertyCards = ({
           <img
             src={image}
             className="card-img-top featuredPropertyCardImg  bg-info"
-            alt="..."
+            alt="image"
           />
           <div className="rounded-circle bg-danger circular-badge overflow-hidden border border-light border-4">
-            <img src={brokerImage} className="brokerImage" />
+            <img src={brokerImage} className="brokerImage" alt="image" />
           </div>
         </div>
         <span className={badgeClasses}>

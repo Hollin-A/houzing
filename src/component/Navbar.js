@@ -10,6 +10,7 @@ export const Navbar = () => {
             src={houzingLogo}
             className="me-2 invert-logo"
             style={{ height: "1.5rem" }}
+            alt="image"
           />
           Houzing
         </a>

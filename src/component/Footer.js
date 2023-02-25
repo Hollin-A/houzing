@@ -12,6 +12,7 @@ export const Footer = () => {
                 src={houzingLogo}
                 className="me-2 invert-logo"
                 style={{ height: "2.5rem" }}
+                alt="image"
               />
               Houzing
             </a>

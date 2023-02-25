@@ -7,6 +7,7 @@ export const Header = () => {
       <img
         src={bgImage}
         className="header-image d-flex align-items-center opacity-75"
+        alt="image"
       />
       <div
         className="position-absolute top-50 start-50 translate-middle text-center text-light p-3"
