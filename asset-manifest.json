@@ -1,27 +1,35 @@
 {
   "files": {
-    "main.css": "/houzing/static/css/main.7661c563.css",
-    "main.js": "/houzing/static/js/main.d016ed97.js",
+    "main.css": "/houzing/static/css/main.8314d9e8.css",
+    "main.js": "/houzing/static/js/main.fddd0660.js",
     "static/js/787.1b1ce9e0.chunk.js": "/houzing/static/js/787.1b1ce9e0.chunk.js",
     "static/media/houzing-01.jpg": "/houzing/static/media/houzing-01.fa45a0882806e5a6e4e0.jpg",
+    "static/media/featured-01.jpg": "/houzing/static/media/featured-01.030e1e961dba5bdc9f63.jpg",
     "static/media/willowdale-manor-01.jpg": "/houzing/static/media/willowdale-manor-01.2ddfcc85462ceb957129.jpg",
     "static/media/willowdale-manor-02.jpg": "/houzing/static/media/willowdale-manor-02.9936387b002bd988d5b9.jpg",
     "static/media/willowdale-manor-03.jpg": "/houzing/static/media/willowdale-manor-03.f69f0d127d6b8674f9f3.jpg",
     "static/media/call-center-agent.jpg": "/houzing/static/media/call-center-agent.16307199526dd4840776.jpg",
+    "static/media/broker-04.jpg": "/houzing/static/media/broker-04.b44e7af57487542adce1.jpg",
+    "static/media/broker-01.jpg": "/houzing/static/media/broker-01.bd92afa9b35756e79440.jpg",
     "static/media/office-space.jpg": "/houzing/static/media/office-space.611c962d6a03c8ff85a1.jpg",
     "static/media/house.jpg": "/houzing/static/media/house.51ca979d2db4fcbcff57.jpg",
     "static/media/apartment.jpg": "/houzing/static/media/apartment.2079f5358d019c029ec7.jpg",
+    "static/media/featured-04.jpg": "/houzing/static/media/featured-04.4b47c799f2d155d73617.jpg",
     "static/media/condo.jpg": "/houzing/static/media/condo.6467909d65fbd4bf9cff.jpg",
+    "static/media/featured-02.jpg": "/houzing/static/media/featured-02.3ae90392d5680f61f83e.jpg",
+    "static/media/featured-03.jpg": "/houzing/static/media/featured-03.b9502ae8a552031db207.jpg",
     "static/media/villa.jpg": "/houzing/static/media/villa.364c7de7fcb3e7469584.jpg",
+    "static/media/broker-03.jpg": "/houzing/static/media/broker-03.48006f7c9b63285b3968.jpg",
+    "static/media/broker-02.jpg": "/houzing/static/media/broker-02.0c6aa50aaafbcf1c21d2.jpg",
     "static/media/logo.png": "/houzing/static/media/logo.c28f5eeaa7d9e161ff70.png",
     "static/media/villa.png": "/houzing/static/media/villa.04d0a074d9469993a137.png",
     "index.html": "/houzing/index.html",
-    "main.7661c563.css.map": "/houzing/static/css/main.7661c563.css.map",
-    "main.d016ed97.js.map": "/houzing/static/js/main.d016ed97.js.map",
+    "main.8314d9e8.css.map": "/houzing/static/css/main.8314d9e8.css.map",
+    "main.fddd0660.js.map": "/houzing/static/js/main.fddd0660.js.map",
     "787.1b1ce9e0.chunk.js.map": "/houzing/static/js/787.1b1ce9e0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7661c563.css",
-    "static/js/main.d016ed97.js"
+    "static/css/main.8314d9e8.css",
+    "static/js/main.fddd0660.js"
   ]
 }
