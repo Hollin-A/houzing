@@ -1,0 +1,233 @@
+/* to color invert images */
+
+.invert-logo {
+  filter: invert(100%);
+}
+
+/* set the height of the header */
+
+.header-height {
+  height: 75vh;
+}
+
+.header-image {
+  object-fit: cover;
+  object-position: center;
+  height: 75vh;
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .header-height {
+    height: 50vh;
+  }
+  .header-image {
+    height: 50vh;
+  }
+}
+
+/* featured property cards */
+
+.featuredPropertyCard {
+  height: 29rem;
+}
+
+.featuredPropertyCardBox {
+  height: 15rem;
+}
+
+.address-and-buttons {
+  position: absolute;
+  bottom: 1rem;
+}
+
+@media (max-width: 992px) {
+  .featuredPropertyCard {
+    height: 24rem;
+  }
+
+  .featuredPropertyCardBox {
+    height: 10rem;
+  }
+
+  .featuredPropertyCardImg {
+    height: 10rem !important;
+  }
+}
+
+.featuredPropertyCardImg {
+  object-fit: cover;
+  object-position: center;
+  width: 100%;
+  height: 15rem;
+}
+
+.featuredBadge {
+  position: absolute;
+  top: 0.5rem;
+  left: 0.5rem;
+  font-size: 1rem;
+}
+
+.circular-badge {
+  height: 3.5rem;
+  width: 3.5rem;
+  position: absolute;
+  transform: translateY(+50%);
+  bottom: 0;
+  right: 0.5rem;
+}
+
+.brokerImage {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+
+.featuredTagline {
+  font-size: 0.75rem;
+}
+
+.address-text {
+  font-size: 0.8rem;
+}
+
+/* Explore Properties Card */
+
+.img-zoom {
+  transition: transform 0.3s ease;
+  object-fit: cover;
+  width: 100%;
+  height: 20rem;
+}
+
+@media (max-width: 768px) {
+  .img-zoom {
+    height: 10rem;
+  }
+}
+
+.div-event:hover .img-zoom {
+  transform: scale(1.1);
+}
+
+.overlay {
+  visibility: hidden;
+  transition: visibility 0s, opacity 0.5s linear;
+}
+
+.overlay-text {
+  visibility: hidden;
+  transition: visibility 0s, opacity 0.5s linear;
+}
+
+.position-relative:hover .overlay {
+  visibility: visible;
+  opacity: 0.5;
+}
+
+.div-event:hover .overlay-text {
+  visibility: visible;
+  opacity: 1;
+}
+
+/* trending carousel image */
+
+.carousel-trending img {
+  object-fit: cover;
+  object-position: center;
+  height: 35rem;
+  width: 100%;
+}
+
+.carousel-trending {
+  height: 35rem;
+}
+
+@media (max-width: 768px) {
+  .carousel-trending img {
+    height: 25rem;
+  }
+  .carousel-trending {
+    height: 25rem;
+  }
+}
+
+/* review section */
+
+@media (max-width: 768px) {
+  .review-card-review-text {
+    font-size: 1rem !important;
+  }
+
+  .bi-quote {
+    font-size: 3rem !important;
+  }
+}
+
+.review-card {
+  background-color: white;
+  border-radius: 15px !important;
+}
+
+.review-card-review-text {
+  font-size: 1.2rem;
+}
+
+.bi-quote {
+  font-size: 5rem;
+}
+
+/* contact form section */
+
+.parallax-img {
+  /* The image used */
+  background-image: url("./assets/call-center-agent.jpg");
+  opacity: 0.75;
+
+  /* Set a specific height */
+  height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@media (max-width: 768px) {
+  .parallax-img {
+    height: 600px;
+  }
+}
+
+/* Footer */
+
+.copyright-text {
+  color: var(--bs-success);
+  font-size: 14px;
+}
+
+.footer-link {
+  color: var(--bs-light);
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: var(--bs-info);
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* scroll to top */
+
+.scroll-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: block !important;
+}
+
+.scroll-to-top:hover {
+  cursor: pointer;
+}

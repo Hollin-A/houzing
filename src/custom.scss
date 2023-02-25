@@ -1,0 +1,40 @@
+// change the theme
+$primary:       #023059;
+$secondary:     #034C8C;
+$success:       #0367A6;
+$info:          #84B1D9;
+$warning:       yellow;
+$danger:        red;
+$light:         #F2F2F2;
+$dark:          #0D0D0D;
+
+$theme-colors: (
+  "primary":    $primary,
+  "secondary":  $secondary,
+  "success":    $success,
+  "info":       $info,
+  "warning":    $warning,
+  "danger":     $danger,
+  "light":      $light,
+  "dark":       $dark
+);
+
+// Customizing font
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+$font-family-base: 'Ubuntu', sans-serif;
+
+// customizing accordion
+
+$accordion-button-active-bg: $light;
+// $accordion-button-focus-box-shadow: 0 0 0 0.25rem $light;
+$accordion-button-focus-box-shadow: 0 0 0 0 $light;
+
+// customizing carousel
+
+$carousel-control-color:$dark;
+$carousel-indicator-active-bg:$dark;
+$carousel-indicator-width:50px;
+
+// Import Bootstrap and its default variables
+@import '~bootstrap/scss/bootstrap.scss';
