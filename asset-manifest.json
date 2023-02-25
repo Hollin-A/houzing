@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/houzing/static/css/main.8314d9e8.css",
-    "main.js": "/houzing/static/js/main.fddd0660.js",
+    "main.js": "/houzing/static/js/main.093f66d3.js",
     "static/js/787.1b1ce9e0.chunk.js": "/houzing/static/js/787.1b1ce9e0.chunk.js",
     "static/media/houzing-01.jpg": "/houzing/static/media/houzing-01.fa45a0882806e5a6e4e0.jpg",
     "static/media/featured-01.jpg": "/houzing/static/media/featured-01.030e1e961dba5bdc9f63.jpg",
@@ -25,11 +25,11 @@
     "static/media/villa.png": "/houzing/static/media/villa.04d0a074d9469993a137.png",
     "index.html": "/houzing/index.html",
     "main.8314d9e8.css.map": "/houzing/static/css/main.8314d9e8.css.map",
-    "main.fddd0660.js.map": "/houzing/static/js/main.fddd0660.js.map",
+    "main.093f66d3.js.map": "/houzing/static/js/main.093f66d3.js.map",
     "787.1b1ce9e0.chunk.js.map": "/houzing/static/js/787.1b1ce9e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8314d9e8.css",
-    "static/js/main.fddd0660.js"
+    "static/js/main.093f66d3.js"
   ]
 }
